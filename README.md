@@ -1,3 +1,6 @@
+I Like all new technology, but nothing is better or sets a better atmosphere than old vintage color string lights, so how can the microbit be use to prolong the life of a set of, now approaching £5 for 4 replacement lamps!
+
+
 
 > Open this page at [https://kieran-metcalf.github.io/vintage-incandescent-filimant-lamp-string-tester/](https://kieran-metcalf.github.io/vintage-incandescent-filimant-lamp-string-tester/)
 
