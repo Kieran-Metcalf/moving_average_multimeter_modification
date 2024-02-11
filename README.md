@@ -1,4 +1,13 @@
-Abstract I Like all new technology, but nothing is better or sets a better atmosphere than old vintage color string lights, so how can the micro:bit be use to prolong the life of a set of, now approaching £5 for 4 replacement lamps!
+Literature review:
+https://www.fluke.com/en-gb/learn/blog/digital-multimeters/how-to-measure-resistance
+moving average testing is not avaliable in fluke products
+anything which is not in Financial Analytics
+No resistance is not a fundamental since its quantity or value is dependent on several varying factors like, the size, type, and other physical characteristics of a material
+Call Fortran as reistance depends on fundamenal phyical quantities. 
+https://stackoverflow.com/questions/48592326/moving-average-with-mask-in-fortran
+
+Motivation:
+Those partial to a better atmosphere of vintage color string lights, so how can the micro:bit be use to prolong the life of a string of incandesent colored lights, which are now approaching £5 for 4 replacement lamps!
 
 With a calbrated needle alolouge multimeter (using a resistor by reading the bands) I tested the resistances of all the lamps, I devided them into 2 sets, lamps which gave a steady resistance reading where the needle stopped for a good 10 seconds. And lamps where the needle just would not settle down. These were about 50% 50%
 
