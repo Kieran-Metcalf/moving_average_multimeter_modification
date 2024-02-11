@@ -16,10 +16,12 @@ First as the data was dicrete as I read to the nearest Ohm I made a statistacal 
 How can this whole process be automated with the micro:pi ... With alot more steps and intergrated electronics than I anticipated. 
 
 1. Additional hardware for resistance testing, as the micro:bit reads voltage at the pins https://learn.adafruit.com/basic-resistor-sensor-reading-on-raspberry-pi/overview
-2. Conversion of this voltage measurment to an accurate resistance value, does this require callibration, no because we are only choosing the lamps in the interquartile range
+2. Conversion of this voltage measurment to an accurate resistance value, does this require callibration,? no because we are only choosing the lamps in the interquartile range
 3. code for a moving average for the fluxuating resistance measurments, a further average to find a single value.
 4. https://stackoverflow.com/questions/14313510/how-to-calculate-rolling-moving-average-using-python-numpy-scipy
 5. Push the A button to store the resistance value when it appears on the screen
+
+
 
 
 
