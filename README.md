@@ -1,4 +1,4 @@
-I Like all new technology, but nothing is better or sets a better atmosphere than old vintage color string lights, so how can the micro:bit be use to prolong the life of a set of, now approaching £5 for 4 replacement lamps!
+Abstract I Like all new technology, but nothing is better or sets a better atmosphere than old vintage color string lights, so how can the micro:bit be use to prolong the life of a set of, now approaching £5 for 4 replacement lamps!
 
 With a calbrated needle alolouge multimeter (using a resistor by reading the bands) I tested the resistances of all the lamps, I devided them into 2 sets, lamps which gave a steady resistance reading where the needle stopped for a good 10 seconds. And lamps where the needle just would not settle down. These were about 50% 50%
 
