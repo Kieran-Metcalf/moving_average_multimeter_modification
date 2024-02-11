@@ -9,7 +9,7 @@ https://stackoverflow.com/questions/48592326/moving-average-with-mask-in-fortran
 Motivation:
 Those partial to a better atmosphere of vintage color string lights, so how can the micro:bit be use to prolong the life of a string of incandesent colored lights, which are now approaching £5 for 4 replacement lamps!
 
-With a calbrated needle alolouge multimeter (using a resistor by reading the bands) I tested the resistances of all the lamps, I devided them into 2 sets, lamps which gave a steady resistance reading where the needle stopped for a good 10 seconds. And lamps where the needle just would not settle down. These were about 50% 50%
+With a calbrated needle analogue multimeter (using a resistor by reading the bands) I tested the resistances of all the lamps, I devided them into 2 sets, lamps which gave a steady resistance reading where the needle stopped for a good 10 seconds. And lamps where the needle just would not settle down. These were about 50% 50%
 
 First as the data was dicrete as I read to the nearest Ohm I made a statistacal histogram of the results with a bin or interval of 1 Ohm and noticed a normal distribution with a median or second quartile at 50 Ohms so I chose the lamps inside the interquartile range and placed them back in the sockets of one of the 4 phase conductng wires, this, I hope will give a steady resistance to the AC an reduce the chances of the filimants burning out. 
 
