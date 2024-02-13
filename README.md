@@ -4,8 +4,8 @@ Moving average testing is not avaliable in fluke products
 Moving averages are common in Financial Analytics. 
 
 Resistance is not a fundamental physical quantity since its quantity or value is dependent on several varying factors such as, the size, type, and other physical characteristics of a material
-Choice of 'machine' language
-Call Fortran as reistance depends on fundamenal phyical quantities. 
+Choice of language, form C#, python, php, fortran matlab. 
+Call Fortran form one of the languags as it is a physics challenge. Reistance depends on fundamenal phyical quantities. 
 https://stackoverflow.com/questions/48592326/moving-average-with-mask-in-fortran
 
 Motivation:
