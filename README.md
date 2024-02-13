@@ -1,7 +1,7 @@
 Literature review:
 https://www.fluke.com/en-gb/learn/blog/digital-multimeters/how-to-measure-resistance
 moving average testing is not avaliable in fluke products
-anything which is not in Financial Analytics
+moving averages are common in Financial Analytics
 Resistance is not a fundamental physical quantity since its quantity or value is dependent on several varying factors such as, the size, type, and other physical characteristics of a material
 Choice of 'machine' language
 Call Fortran as reistance depends on fundamenal phyical quantities. 
